@@ -2,4 +2,5 @@
 Для создания датасета использовались:
   - https://www.openstreetmap.org
   - https://www.sentinel-hub.com/
-  - https://www.sentinel-hub.com/
+  - https://www.google.com/maps
+ 
